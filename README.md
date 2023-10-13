@@ -18,5 +18,5 @@
   <img src="https://ghchart.rshah.org/NoJaeHyuk" />  
 
 ### :pencil2: About Me  
-  <a href="https://jh7722.tistory.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1697166029284?alt=media&token=b1bf4bc1-fb19-482d-a743-04f429ea0ce9" alt="stackticon" /></a>
+  <a href="https://jh7722.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-FF9933?style=for-the-badge&logo=tistory&logoColor=white"></a>  
 </div>
