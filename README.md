@@ -26,6 +26,6 @@
 
 ### :pencil2: About Me
 
-  <a href="https://jh7722.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF9933?style=for-the-badge&logo=tistory&logoColor=white"></a>    
+  <a href="https://jh7722.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF9933?style=for-the-badge&logo=tistory&logoColor=white"></a>    
 
 </div>
