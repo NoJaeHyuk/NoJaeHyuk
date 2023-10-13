@@ -2,17 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=C5DEDA&height=150&section=header&text=JH_Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-###  :wave: Welcome my github profile !      
   
-###  :clipboard: Technology Stack
- 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- 
+###  :wave: Welcome my github!     
+  
+###  :clipboard: Technology Stack  
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1697165708719?alt=media&token=423a44b9-3dc7-4d93-a1e3-c954e895a343)](https://github.com/msdio/stackticon)
  <br/>
 
 ### 📈 My Stats
